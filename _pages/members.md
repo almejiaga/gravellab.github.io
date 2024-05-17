@@ -25,6 +25,11 @@ simon.gravel@mcgill.ca
 
 # Graduate students
 
+## Alejandro Mejía García <a href="https://github.com/almejiaga"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+
+
+
+
 ## Alouette Zhang <a href="https://github.com/BCFZzw"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
 
 ## Georgette Femerling <a href="https://github.com/georgette-femerling"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
